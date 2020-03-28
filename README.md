@@ -1,0 +1,1 @@
+This is Mikki's first git project!
